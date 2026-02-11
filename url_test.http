@@ -1,0 +1,7 @@
+### Hello World
+GET http://localhost:{{port}}/hello
+Accept: application/json
+
+### Search Users2
+GET http://localhost:{{port}}/search/users2?q=yueyi
+Accept: application/json
